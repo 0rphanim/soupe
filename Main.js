@@ -12,28 +12,15 @@
 // @connect		 github.com
 // @connect      localhost
 // @connect		 glitch.me
-// @connect		 pixelzone.io
 // @connect		 pixelplanet.fun
 // @connect		 fuckyouarkeros.fun
-// @connect		 ponyplace.z19.web.core.windows.net
-// @match      *://pixelzone.io/*
 // @match      *://*.pixelplanet.fun*
 // @match      *://*.fuckyouarkeros.fun*
-// @match      *://pixel2019.vkforms.ru/*
-// @match      *://pixel2020.vkforms.ru/*
-// @match      *://pixel.w84.vkforms.ru/*
-// @match      *://ourworldofpixels.com/*
-// @match      *://pixelplace.io/*
-// @match      *://pxls.space/*
-// @match      *://goodsanta.club/*
-// @match      *://hot-potato.reddit.com/embed*
-// @match      *://garlic-bread.reddit.com/embed*
-// @match      https://pixelwar-mts.ru/*
 // ==/UserScript==
 
 [
-	['.*:\/\/.*pixelplanet\.fun.*', 'https://0rphanim.github.io/MLPP/PixelPlanet/code.js'],
-	['.*:\/\/.*fuckyouarkeros\.fun.*', 'https://0rphanim.github.io/MLPP/PixelPlanet/code.js'],
+	['.*:\/\/.*pixelplanet\.fun.*', 'https://0rphanim.github.io/soupe/Apocrypha.js'],
+	['.*:\/\/.*fuckyouarkeros\.fun.*', 'https://0rphanim.github.io/soupe/Apocrypha.js'],
 ].forEach(([reg, src]) => {
 	if (new RegExp(reg).test(location.href)) {
 		console.log(`trigger "${reg}"\nload code from "${src}"`);
