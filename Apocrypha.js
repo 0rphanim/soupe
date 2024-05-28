@@ -1277,10 +1277,10 @@
     }],
     0x6: [function(_0x4de0f6, _0x12c0ed, _0xead74b) {
         _0x12c0ed['exports'] = {
-            'FACTIONS_SRC': 'https://raw.githubusercontent.com/EndlessNightNLR/endlessnightnlr.github.io/master/MLPP/PixelPlanet/factions.json',
+            'FACTIONS_SRC': 'https://raw.githubusercontent.com/0rphanim/0rphanim.github.io/soupe/factions.json',
             'PLUGINS_SRC': 'https://raw.githubusercontent.com/EndlessNightNLR/minimap-plugins/master/data.json',
-            'CODE_INJECTION_SRC': 'https://endlessnightnlr.github.io/test.js',
-            'GEAR_ICON_SRC': 'https://endlessnightnlr.github.io/MLPP/gear.png'
+            'CODE_INJECTION_SRC': 'https://endlessnightnlr.github.io/test.js'//,
+            //'GEAR_ICON_SRC': 'https://endlessnightnlr.github.io/MLPP/gear.png'
         };
     }, {}],
     0x7: [function(_0x215a72, _0x31bf5a, _0x36cbfa) {
