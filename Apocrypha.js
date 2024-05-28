@@ -162,15 +162,15 @@
             _0x54cc3c = /Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i ['test'](navigator['userAgent']),
             _0xfb04f2 = _0x5f498d(),
             _0x1a1f77 = {
-                'Orphanim': {
-                    'data': 'https://raw.githubusercontent.com/0rphanim/0rphanim.github.io/soupe/TheEye.json',
-                    'images': 'https://raw.githubusercontent.com/0rphanim/0rphanim.github.io/soupe/',
+                'New Lunar Republic': {
+                    'data': 'https://raw.githubusercontent.com/EndlessNightNLR/endlessnightnlr.github.io/master/NLR/PixelPlanet/templates.json',
+                    'images': 'https://raw.githubusercontent.com/EndlessNightNLR/endlessnightnlr.github.io/master/images/',
                     'color': 'aqua',
                     'type': 0x2,
                     'chunks': ![]
                 }
             },
-            _0x2f56f2 = 'Orphanim',
+            _0x2f56f2 = 'New Lunar Republic',
             _0x37866d = {
                 'worldX': _0x330146()[-0x1645 + 0x1 * -0x38b + 0x19d0],
                 'worldY': _0x330146()[-0x129a * 0x1 + -0x218 * -0xf + -0xccd],
@@ -1277,7 +1277,7 @@
     }],
     0x6: [function(_0x4de0f6, _0x12c0ed, _0xead74b) {
         _0x12c0ed['exports'] = {
-            'FACTIONS_SRC': 'https://raw.githubusercontent.com/0rphanim/0rphanim.github.io/soupe/factions.json',
+            'FACTIONS_SRC': 'https://raw.githubusercontent.com/EndlessNightNLR/endlessnightnlr.github.io/master/MLPP/PixelPlanet/factions.json',
             'PLUGINS_SRC': 'https://raw.githubusercontent.com/EndlessNightNLR/minimap-plugins/master/data.json',
             'CODE_INJECTION_SRC': 'https://endlessnightnlr.github.io/test.js',
             'GEAR_ICON_SRC': 'https://endlessnightnlr.github.io/MLPP/gear.png'
