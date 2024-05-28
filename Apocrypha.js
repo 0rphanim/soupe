@@ -113,9 +113,9 @@
             BASIC_MODE: _0x3a3064
         } = _0x2bd52f('./mapConfig.json'), {
             FACTIONS_SRC: _0x455693,
-            PLUGINS_SRC: _0x5afbd0,
+            //PLUGINS_SRC: _0x5afbd0,
             CODE_INJECTION_SRC: _0x475750,
-            GEAR_ICON_SRC: _0x434359
+            //GEAR_ICON_SRC: _0x434359
         } = _0x2bd52f('./resources/links.json'), {
             MAP_MIN_WIDTH: _0x511dd8,
             MAP_MAX_WIDTH: _0xe44a07,
